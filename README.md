@@ -14,3 +14,7 @@ Para la ejecución utilizo el comando screen.
 `CTRL + A`
 
 `D`
+
+Un ejemplo de como se ven las notificaciones a continuación:
+
+![telegram_example](https://user-images.githubusercontent.com/37148657/220814096-5563ab79-e5b1-405d-ab91-49a3596a5633.png)
