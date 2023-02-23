@@ -8,6 +8,9 @@ Para utilizar este script, es necesario reemplazar la ruta del archivo de regist
 Para la ejecución utilizo el comando screen. 
 
 `$ screen -S sliverNotification`
+
 `$ python3 monitSliver.py`
+
 `CTRL + A`
+
 `D`
